@@ -1,0 +1,376 @@
+https://www.git-tower.com/learn/git/faq/undo-git-merge/ | How to undo a merge in Git | Learn Version Control with Git
+https://madusanka.com/projects/topjeweller/# | Top Jewelery – Just another WordPress site
+https://coreui.libraries.finone.com.au/utils/theme | Finance One - Core UI
+https://dev.azure.com/financeone/Application%20Originations/_git/Analyst%20Backend/branches | Branches - Repos
+https://dev.azure.com/financeone/Application%20Originations/_git/Analyst%20Backend?version=GBfeatures%2Fauto-decisioning | Analyst Backend - Repos
+https://coreui.libraries.finone.com.au/application/update-watcher | Finance One - Core UI
+https://www.youtube.com/watch?v=u92dj5h4nrA | Let's Learn .NET - F# - YouTube
+https://www.youtube.com/watch?v=f0JX0YIRVdI&list=PLdo4fOcmZ0oUFghYOp89baYFBTGxUkC7Z&index=7 | What is F#? [2 of 12] | Beginner's Series to: F# - YouTube
+https://www.youtube.com/watch?v=x_AXKLfG8o0 | ASP.NET Community Standup - ASP.NET Core Architecture: Part 2 - YouTube
+https://speakerdeck.com/davidfowl | David Fowler (@davidfowl) on Speaker Deck
+https://www.howtogeek.com/ | How-To Geek - We Explain Technology
+https://www.howtogeek.com/80036/geek-reviews-use-teracopy-to-speed-up-file-copying-2/ | Geek Reviews: Use TeraCopy to Speed Up File Copying
+file:///C:/Users/dsilva/Downloads/ASP.NET_Core_Architecture_Overview.pdf | ASP.NET_Core_Architecture_Overview.pdf
+https://docs.microsoft.com/en-gb/ef/core/dbcontext-configuration/#avoiding-dbcontext-threading-issues | DbContext Lifetime, Configuration, and Initialization - EF Core | Microsoft Docs
+https://dev.azure.com/financeone/Application%20Originations/_backlogs/backlog/Application%20Originations%20Team/Epics | Application Originations Team Epics Backlog - Boards
+https://dailydotnettips.com/keep-track-of-your-active-file-inside-solution-explorer-a-quick-visual-studio-tip/ | Keep Track of your active files inside Solution Explorer - A Quick Visual Studio Tip - Daily .NET Tips
+https://secure.employmenthero.com/users/sign_in | Sign in - Employment Hero
+https://gist.github.com/sashamathews?page=2 | sashamathews’s gists
+https://leetcode.com/problems/decode-string/ | (7) Decode String - LeetCode
+http://10.30.0.44:16905/deal/13 | Analyst Portal
+https://www.youtube.com/watch?v=Pzxsqb9dBLk | Learn C# with CSharpFritz - Get Started with C#: Making our own Types - Methods, Events, & Delegates - YouTube
+https://hub-binder.mybinder.ovh/user/csharpfritz-csh-ith_csharpfritz-2465z30g/notebooks/0102-Classes.ipynb | 0102-Classes - Jupyter Notebook
+https://docs.microsoft.com/en-gb/dotnet/csharp/language-reference/?WT.mc_id=visualstudio-twitch-jefritz | C# reference | Microsoft Docs
+
+https://github.com/dotnet/interactive | GitHub - dotnet/interactive: .NET Interactive takes the power of .NET and embeds it into your interactive experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before.
+https://www.youtube.com/watch?v=DMYtIJT1OeU | .NET Interactive Notebooks with C#/F# in VS Code - YouTube
+https://medium.com/perry-street-software-engineering/clean-api-architecture-2b57074084d5 | Clean API Architecture
+https://wildermuth.com/2021/07/05/Coding-Shorts-Dependency-Injection-Explained | Coding Shorts: Dependency Injection Explained
+https://www.youtube.com/channel/UCVIcSx0JX1lBXnyezabutrA | swildermuth - YouTube
+https://www.youtube.com/watch?v=2RKF8XTf0Fc | Learn C# with CSharpFritz - Ep9: SOLID Principles and Dependency Injection - YouTube
+https://docs.microsoft.com/en-gb/dotnet/csharp/language-reference/?WT.mc_id=visualstudio-twitch-jefritz | C# reference | Microsoft Docs
+https://dotnetfoundation.org/ | https://dotnetfoundation.org
+https://www.youtube.com/watch?v=rskR2wHyhx4 | .NET Foundation Project Spotlight - Have I Been Pwned? - YouTube
+https://haveibeenpwned.com/ | Have I Been Pwned: Check if your email has been compromised in a data breach
+https://www.biblestudytools.com/topical-verses/bible-verses-about-laziness/ | 21 Best Bible Verses about Laziness - Encouraging Scriptures
+https://github.com/CodeMazeBlog/onion-architecture-aspnetcore/tree/main/OnionArchitecutre | onion-architecture-aspnetcore/OnionArchitecutre at main · CodeMazeBlog/onion-architecture-aspnetcore · GitHub
+https://docs.microsoft.com/en-us/visualstudio/debugger/debugger-feature-tour?view=vs-2019 | First look at the debugger - Visual Studio (Windows) | Microsoft Docs
+https://blog.cwa.me.uk/ | The Morning Brew - Chris Alcock
+https://blog.jetbrains.com/dotnet/2021/07/28/specflow-for-rider-plugin/ | SpecFlow for Rider (Plugin) is now Available! | The .NET Tools Blog
+https://www.syncfusion.com/succinctly-free-ebooks/c-sharp-features-succinctly | Free Ebook - C# Features Succinctly
+http://git-school.github.io/visualizing-git/#free-remote | Visualizing Git
+https://blog.jbrains.ca/series#value-driven-product-development | Series
+https://blog.jbrains.ca/permalink/a-simple-question-to-ask-about-estimating-tasks | A Simple Question to Ask About Estimating Tasks
+https://docs.microsoft.com/en-gb/microsoft-edge/devtools-guide-chromium/console/utilities | Console Utilities API reference - Microsoft Edge Development | Microsoft Docs
+https://gist.github.com/sashamathews/77ff028722a519c65ff8437d250268a4#file-materializing-linq-fast-cs | materializing-linq-fast.cs
+https://code-maze.com/c-tips-to-improve-code-quality-and-performance/ | C# Tips to Improve Code Quality and Performance - Code Maze
+https://levelup.gitconnected.com/5-ways-to-improve-the-performance-of-c-code-for-free-c89188eba5da | 5 Ways to Improve the Performance of C# Code for Free | by Sasha Mathews | Level Up Coding
+http://dontcodetired.com/blog/post/ICYMI-C-8-New-Features-Asynchronous-Streams | Don't Code Tired | ICYMI C# 8 New Features: Asynchronous Streams
+https://devblogs.microsoft.com/devops/7-ways-to-look-at-the-values-of-variables-while-debugging-in-visual-studio/ | 7 Ways to Look at the Values of Variables While Debugging in Visual Studio | Azure DevOps Blog
+https://refactoring.com/catalog/inlineVariable.html | Inline Variable
+https://practicaldotnet.io/watch/UpAndRunningWithBlazor | Up and running with Blazor - Practical ASP.NET
+https://martinfowler.com/bliki/PresentationDomainDataLayering.html | PresentationDomainDataLayering
+https://twitter.com/davidfowl | David Fowler 🇧🇧💉💉 (@davidfowl) / Twitter
+https://dotnetdocs.dev/ | The .NET Docs Show
+https://code-maze.com/c-tips-to-improve-code-quality-and-performance/#use-the-memory-locality-principle-for-better-performance | C# Tips to Improve Code Quality and Performance - Code Maze
+https://code-maze.com/benchmarking-csharp-and-asp-net-core-projects/ | Introduction to Benchmarking in C# and ASP.NET Core Projects
+https://devblogs.microsoft.com/dotnet/category/conversations/ | Conversations | .NET Blog
+https://github.com/wdsnetnz/DatingApp3/tree/main/DatingApp.api/Extensions | DatingApp3/DatingApp.api/Extensions at main · wdsnetnz/DatingApp3
+https://dotnetfiddle.net/ | | C# Online Compiler | .NET Fiddle
+https://www.youtube.com/watch?v=nNzPErfsqoQ | (#33) Inner join in multiple tables in linq | LINQ tutorial for beginners - YouTube
+https://www.youtube.com/results?search_query=webgentle | webgentle - YouTube
+https://www.youtube.com/watch?v=uUsnDXYRADA | Learn LINQ Query syntax | C# 201 [2 of 8] - YouTube
+https://github.com/dotnet/try-samples#basics | GitHub - dotnet/try-samples
+https://test.bankstatements.com.au/iframe/start/FNCO | BankStatements - Send Your Bank Statements Now
+https://docs.bankstatements.com.au/#mfa-test-account-details | BankStatements.com.au Integration Guide and Documentation
+https://dotnetcoretutorials.com/ | .NET Core Tutorials
+https://contentlab.io/introduction-to-azure-service-bus/ | Introduction to Azure Service Bus - ContentLab.io
+https://sharplab.io/#v2:CYLg1APgAgTAjAWAFBQAwAIpwCwG5lqZwB0AMgJYB2AjvigMyYzoDC6A3sut5o1NugCyACgCUHLjylFUAbQC66AO4B7AE7AAzugC86SgFMlMhR3QAiAJLmANBYA2KgG4HbDgwYAuAYxXBXdubkbuaOLiG+wFQA5uboAL500lJUnugA1rroMEnJ6JJ5TgCGauhqBpoArvZpegAqKgAOANIAYuXUlQaUnsKqGpp26aK53PEF+UhSjWrkxZ4GRABs6JYUmp4APFioAHzoDS3tBp3dvTum/Vp2qRmiE1KcU3k8UADsyupaD3nEAOJqFSVRoAIQAnsJtDp9pp7s8XtxiAB5DQGNTggAiFW83SilGikN0MOILCBPTEcIRPGIdQAFt1wYToehNMRmgYwZSqegaUV0gZhMMfsliABlAz2AzeXpQ4nsznC6Q0lTrXojRXjJDxIA== | SharpLab
+https://developercentre.equifax.com.au/product/commercial-risk/business-enquiry | Developer Centre |
+https://code-maze.com/code-maze-weekly-90/ | Code Maze Weekly #90 - Code Maze
+https://dotnetcoretutorials.com/2021/08/10/generating-random-numbers-in-net/ | Generating Random Numbers In .NET - .NET Core Tutorials
+https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase | git rebase | Atlassian Git Tutorial
+https://leetcode.com/problems/deepest-leaves-sum/ | (7) Deepest Leaves Sum - LeetCode
+
+https://www.telerik.com/blogs/whats-new-visual-studio-code | What’s New in Visual Studio Code?
+http://simpleprogrammer.com/2014/10/27/5-ways-software-developers-can-become-better-estimation/ | 5 Ways Software Developers Can Become Better at Estimation
+https://www.softwarepark.cc/blog/2021/8/19/creating-solutions-and-projects-in-vs-code | Creating Solutions and Projects in VS Code
+https://devblogs.microsoft.com/dotnet/new-dotnet-6-apis-driven-by-the-developer-community/ | New .NET 6 APIs driven by the developer community
+https://www.youtube.com/watch?v=i3qEhwcG7ps | .NET Conf: Focus on F# - YouTube
+https://github.com/microsoft/IoT-For-Beginners/blob/main/sketchnotes/Roadmap.jpg | IoT-For-Beginners/Roadmap.jpg at main · microsoft/IoT-For-Beginners · GitHub
+https://github.com/microsoft/IoT-For-Beginners | GitHub - microsoft/IoT-For-Beginners: 12 Weeks, 24 Lessons, IoT for All!
+https://less.works/ | Overview - Large Scale Scrum (LeSS)
+https://www.scrum.org/professional-scrum-master-i-certification | Professional Scrum Master™ I | Scrum.org
+https://saraford.net/?s=git | Search Results for “git” – Sara Ford's Blog
+https://saraford.net/ | Sara Ford's Blog
+https://saraford.net/2017/05/05/how-to-git-pull-to-download-and-merge-new-changes-from-remote-branch-into-your-local-branch-via-command-line-125/ | How to git pull to download and merge new changes from remote branch into your local branch via command line – 125 – Sara Ford's Blog
+https://ardalis.com/how-to-become-master-writing-c-code/ | How to become master writing C# code | Blog
+https://www.telerik.com/blogs/what-i-like-about-csharp-9 | What I Like About C# 9
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/patterns?WT.mc_id=AZ-MVP-4024623 | Patterns - C# reference | Microsoft Docs
+https://refactoring.com/catalog/ | Catalog of Refactorings
+https://www.agilesparks.com/blog/scaling-scrum-with-nexus-and-kanban/ | Scaling Scrum with Nexus and Kanban - AgileSparks
+https://www.scaledagileframework.com/ | SAFe 5 for Lean Enterprises
+https://www.agilealliance.org/glossary/xp/#q=~(infinite~false~filters~(postType~(~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'xp))~searchTerm~'~sort~false~sortDirection~'asc~page~1) | What is Extreme Programming (XP)? | Agile Alliance
+https://www.hanselman.com/blog/exploring-a-minimal-web-api-with-aspnet-core-6?utm_source=feedly&utm_medium=webfeeds | Exploring a minimal Web API with ASP.NET Core 6
+https://www.youtube.com/watch?v=1daODFp6xvs | Maria Naggaga's presentation in June that's on YouTube
+https://github.com/martincostello/dotnet-minimal-api-integration-testing?WT.mc_id=-blog-scottha | https://github.com/martincostello/dotnet-minimal-api-integration-testing
+https://github.com/davidfowl/CommunityStandUpMinimalAPI?WT.mc_id=-blog-scottha | https://github.com/davidfowl/CommunityStandUpMinimalAPI
+https://github.com/davidfowl/dotnet6minimalapi/tree/main/Dotnet6_Minimal_API?WT.mc_id=-blog-scottha | https://github.com/davidfowl/dotnet6minimalapi/tree/main/Dotnet6_Minimal_API
+https://docs.microsoft.com/en-us/visualstudio/javascript/?view=vs-2022 | JavaScript and TypeScript in Visual Studio - Visual Studio (Windows) | Microsoft Docs
+https://code-maze.com/code-maze-weekly-88/ | Code Maze Weekly #88 - Code Maze
+https://blog.jetbrains.com/dotnet/2021/08/05/net-annotated-monthly-august-2021/ | .NET Annotated Monthly | August 2021 | The .NET Tools Blog
+https://www.biblestudytools.com/ | The Bible - Read and Study Free Online
+https://ptgmedia.pearsoncmg.com/imprint_downloads/informit/op/9780201379433_objectdesign.pdf | 9780201379433_objectdesign.pdf
+https://docs.microsoft.com/en-gb/learn/modules/fsharp-first-steps/2-what-is-fsharp | What is F#? - Learn | Microsoft Docs
+https://www.theurlist.com/letslearndotnet-fsharp/?WT.mc_id=dotnet-29448-jasingl | The Urlist
+https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-4/ | ASP.NET Core updates in .NET 6 Preview 4 | ASP.NET Blog
+https://specflow.org/tools/living-doc/ | SpecFlow+ LivingDoc - View automated test results within your browser
+https://blog.jbrains.ca/series#value-driven-product-development | Value-Driven Product Development
+https://wormhole.app/ | Wormhole - Simple, private file sharing
+https://carbon.now.sh/ | Carbon | Create and share beautiful images of your source code
+https://wildermuth.com/2021/07/05/Coding-Shorts-Dependency-Injection-Explained/ | Coding Shorts: Dependency Injection Explained
+https://www.youtube.com/c/swildermuth | swildermuth - YouTube
+https://www.youtube.com/watch?v=JuIq7mU50jA | ASP.NET Community Standup - Building ASP.NET Core apps in F# - YouTube
+https://www.youtube.com/watch?v=i3qEhwcG7ps | .NET Conf: Focus on F# - YouTube
+https://github.com/csharpfritz/csharp_with_csharpfritz/tree/0505/sessions/Season-05/0505-ApiDesignAndDevelopment | csharp_with_csharpfritz/sessions/Season-05/0505-ApiDesignAndDevelopment at 0505 · csharpfritz/csharp_with_csharpfritz
+https://docs.microsoft.com/en-gb/learn/dotnet/?WT.mc_id=friends-0000-jamont | .NET on Microsoft Learn | Microsoft Docs
+https://www.tutorialsteacher.com/csharp/csharp-ternary-operator | C# ?: Ternary Operator (Conditional Operator)
+https://docs.microsoft.com/en-us/visualstudio/debugger/using-the-parallel-stacks-window?view=vs-2019 | View threads in the Parallel Stacks window - Visual Studio (Windows) | Microsoft Docs
+https://classic.yarnpkg.com/en/docs/install#windows-stable | Installation | Yarn
+https://visualstudio.microsoft.com/services/intellicode/ | Visual Studio IntelliCode | Visual Studio - Visual Studio
+https://code-maze.com/async-generic-repository-pattern/ | Asynchronous Generic Repository in ASP.NET Core Web API - Code Maze
+https://github.com/CodeMazeBlog/onion-architecture-aspnetcore/tree/main/OnionArchitecutre | onion-architecture-aspnetcore/OnionArchitecutre at main · CodeMazeBlog/onion-architecture-aspnetcore
+https://code-maze.com/onion-architecture-in-aspnetcore/ | Onion Architecture in ASP.NET Core - Code Maze
+https://code-maze.com/net-core-web-development-part5/ | ASP.NET Core Web API - How to Handle GET Request
+https://code-maze.com/ten-things-avoid-aspnetcore-controllers/ | 10 Things You Should Avoid in Your ASP.NET Core Controllers
+https://code-maze.com/?s=Onion+Architecture+in+ASP.NET+Core | You searched for Onion Architecture in ASP.NET Core - Code Maze
+https://www.entityframeworktutorial.net/lazyloading-in-entity-framework.aspx | Lazyloading in Entity Framework
+https://www.entityframeworktutorial.net/basics/basic-workflow-in-entity-framework.aspx | Basic Workflow in Entity Framework
+https://code-maze.com/code-maze-weekly-87/ | Code Maze Weekly #87 - Code Maze
+https://code-maze.com/c-tips-to-improve-code-quality-and-performance/#use-the-memory-locality-principle-for-better-performance | C# Tips to Improve Code Quality and Performance - Code Maze
+https://code-maze.com/?s=Onion+Architecture+in+ASP.NET+Core | You searched for Onion Architecture in ASP.NET Core - Code Maze
+https://github.com/CodeMazeBlog/onion-architecture-aspnetcore/tree/main/OnionArchitecutre | onion-architecture-aspnetcore/OnionArchitecutre at main · CodeMazeBlog/onion-architecture-aspnetcore
+https://code-maze.com/net-core-web-development-part5/ | ASP.NET Core Web API - How to Handle GET Request
+https://code-maze.com/ten-things-avoid-aspnetcore-controllers/ | 10 Things You Should Avoid in Your ASP.NET Core Controllers
+https://docs.microsoft.com/en-us/visualstudio/debugger/debugger-feature-tour?view=vs-2019 | First look at the debugger - Visual Studio (Windows) | Microsoft Docs
+https://garywoodfine.com/what-is-cqrs/ | What is CQRS?
+https://garywoodfine.com/the-mediator-pattern/ | The Mediator Pattern | Gary Woodfine
+https://entityframework.net/knowledge-base/10333732/linq-query-with-a-where-clause-with-multiple-conditions | [SOLVED] => LINQ query with a WHERE clause with multiple conditions
+http://asp.net-hacker.rocks/ | ASP.NET Hacker
+https://github.com/microsoft/IoT-For-Beginners | microsoft/IoT-For-Beginners: 12 Weeks, 24 Lessons, IoT for All!
+https://github.com/MoienTajik/AspNetCore-Developer-Roadmap | MoienTajik/AspNetCore-Developer-Roadmap: Roadmap to becoming an ASP.NET Core developer in 2021
+https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/aspnetcore-developer-roadmap-printable.png | AspNetCore-Developer-Roadmap/aspnetcore-developer-roadmap-printable.png at master · MoienTajik/AspNetCore-Developer-Roadmap
+http://jvns.ca/ | Julia Evans
+https://www.csharp-examples.net/linq-max/ | LINQ Max
+https://www.codeproject.com/Articles/832189/List-vs-IEnumerable-vs-IQueryable-vs-ICollection-v | List vs IEnumerable vs IQueryable vs ICollection vs IDictionary - CodeProject
+https://stackoverflow.com/questions/27538833/cannot-open-visual-studio-throw-error-cannot-run-when-setup-is-in-progress | Cannot open Visual Studio - throw error 'cannot run when setup is in progress' - Stack Overflow
+https://wesbos.com/javascript | Beginner JavaScript Notes - Wes Bos
+https://www.catholic.org/bible/daily_reading/?select_date=2021-06-23 | Daily Reading for Wednesday, June 23rd, 2021 - Bible - Catholic Online
+http://blog.cwa.me.uk/ | The Morning Brew - Chris Alcock
+https://app.pluralsight.com/course-player?clipId=9624b738-574c-449d-89e3-145829161dcc | C# Tips and Traps | Pluralsight
+https://dev.to/azure/learn-react-with-this-free-github-book-i-wrote-792 | Learn React with this free GitHub book I wrote - DEV Community
+https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md | AspNetCoreDiagnosticScenarios/AsyncGuidance.md at master · davidfowl/AspNetCoreDiagnosticScenarios
+https://code-maze.com/using-dapper-with-asp-net-core-web-api/ | Using Dapper with ASP.NET Core Web API - Code Maze
+https://github.com/CodeMazeBlog/dapper-aspnetcore-webapi/tree/main/DapperASPNetCore/DapperASPNetCore | dapper-aspnetcore-webapi/DapperASPNetCore/DapperASPNetCore at main · CodeMazeBlog/dapper-aspnetcore-webapi
+https://json2csharp.com/json-to-csharp | Convert JSON to C# Online - Json2CSharp
+https://github.com/wdsnetnz/MyTracker/blob/8c7fddeb96d3e64bd4df98363390a7b1877714fe/TimeTracker.Repository/Implementations/CustomerRepository.cs#L81 | MyTracker/CustomerRepository.cs at 8c7fddeb96d3e64bd4df98363390a7b1877714fe · wdsnetnz/MyTracker
+https://mcusercontent.com/9bb15645129501e5249a9a8e1/files/aa8fb3f3-fd94-4641-8693-8a9980240001/ASPNET_Core_WEB_API_Best_Practices.03.pdf | ASP.NET Core Web API Best Practices
+https://dotnetfiddle.net/ | | C# Online Compiler | .NET Fiddle
+https://redux.js.org/tutorials/essentials/part-2-app-structure | Redux Essentials, Part 2: Redux App Structure | Redux
+https://github.com/reduxjs/cra-template-redux | reduxjs/cra-template-redux: The official Redux template for Create React App
+https://react-redux.js.org/introduction/getting-started | Getting Started with React Redux | React Redux
+https://kanbanflow.com/board/ReR8BXS | My Personal Board - KanbanFlow
+https://sharplab.io/#v2:CYLg1APgAgTAjAWAFBQAwAIpwHQBkCWAdgI4DcyamcALOSgMyYzoDC6A3sut5o1NegCyACgCUHLjylEALugCmAG3kBbeYTkBedHDpTpG9AGMA9gFdD2uKj37usgNoBddAEMATu9cBPZtsLyAO7ojqYWMk62dpLRSHb2Gs5unj7o2gCihGZqXgBGytgASvIADvKuMsJKquoyADTG5hqi2AAqJgCCKd5iUfpYAJzCAMoy7kQA5tgAUiZEwgBEdUvJXt6ion1SMfo7UgBmJu7owrIhaeg25wA8jeGkIWBg4pxx8VIeaw74LtrVahotjwAL5cPY8QYjMaTGZzQiLZYNT4+GAbIHccHcLprbAAMXwikUwmRvga/1qmzBbzskNG40IU1m8yWKxJqMp1N2nOk+xObJCAGcOOhgehRJiJNz4pCFgA5ExyWVmQkAQgWHPeoKlGO16EO7nKRgAFiczkYQoRVijxbrXu8pJCACQLdLKAFyADE7DCGmBIA45N96vR+h9MieIa17ydcuyuXkxxMvMDMgF/u9TRkwODEolZ0t2hsEsCRoJ8hOltuAFYbe87fbuJDCBqG+hCBGJVH4hKAG4ePX4XJKlTx9xC/xBdAEAUya6yAB8wtQDTgK4aMAa9AaVYaAA4V4xgSG8/thPtB8PRwKAPzYDqEHriTTaMZmeS1+L1hud3O66ezhc2zjBNxyAwkQ1ka82xMC4snA5AJSyEcQPQa9rwnYJ/znDR516RDgLHO9gGAYRCBgtCrAAdhbOwkKvIiSLI1D0PQGBUBorlozgIYsFQWFmXQFY6JAtFuAAejE9BzBkEozBkf04EonRKIlJsTE2cTJOk2T5OU393jNTNLwTC4i11fVDRNU5DBTXEjgtAchwIgUPzsL97RjV0akML0w2M9w/QDN1ajsgKc11KQ/IIjtdS7GluOEZ1/Kk5Ngo0NMOCi5Cwo5HYtWBIA== | SharpLab
+https://dzone.com/ | DZone: Programming & DevOps news, tutorials & tools
+https://devblogs.microsoft.com/visualstudio/learn-whats-new-in-net-productivity/ | Learn What’s New in .NET Productivity | Visual Studio Blog
+http://10.30.0.44:3000/login?injection=eyJyZWRpcmVjdGlvblVybCI6Ii93b3JrZmxvd3MvaGFyZHNoaXAvOCIsInRva2VuIjoiZXlKaGJHY2lPaUpTVXpJMU5pSXNJbXRwWkNJNklqUkdSRUV3TlRaQ056STJNRGd4TWtOQ01qTkZNVVUzTWtGRE4wRXlRVFZHTjBJMVFUVXhNRGtpTENKMGVYQWlPaUpLVjFRaWZRLmV5SnBaR1Z1ZEdsbWFXVnlJam9pTWpnMU1ERmlObVV0TmpJNFpTMDBORFpoTFRoaFptTXROemRpWlRKaU16UmtZbUUzSWl3aWFXUWlPaUpFVTBsTVZrRWlMQ0p1WVcxbElqb2lSR2x1WlhOb0lGTnBiSFpoSWl3aWFtOWlYM1JwZEd4bElqb2lTVlFnUVdSdGFXNGlMQ0psYldGcGJGOWhaR1J5WlhOeklqb2laR2x1WlhOb0xuTnBiSFpoUUdacGJtRnVZMlZ2Ym1VdVkyOXRMbUYxSWl3aVlteGZkRzlyWlc0aU9pSmJWRzlyWlc1ZFZFVXZRa1ZFYldaTlIzTTRlVzl0ZW0wNVVtMWxNM2t4VlVVNFVYaGhZak5zSzJSblRGSmxTa2R1V1V0RVRIVk5RMlUwY0d0blNXcHZPVU5WYzB0SlFqWmtVVE5GVkdWeFltRnpiM054ZUhGNGNIRjVNMEU5UFNJc0luQnlaWFpwWlhkZlptVmhkSFZ5WlhNaU9pSkdZV3h6WlNJc0ltNWlaaUk2TVRZeU5qRTBORE15TlN3aVpYaHdJam94TmpJMk1qTXdOekkxTENKcFlYUWlPakUyTWpZeE5EUXpNalVzSW1semN5STZJbUYxZEdobGJuUnBZMkYwYVc5dUxYQnNZWFJtYjNKdElpd2lZWFZrSWpvaVozSmhiblJwYm1kVWIydGxiaUo5LlhDMGxhYm5tRDFJbV9FaHhsZjljengzNFBETUktWHNhdUdYY3pqcTA2eUxfOXlkUERLSmdMNGNUNTVXRU5qMFpJT2dIVzZyQWZ6TFkxbzdUVlZTNVlESVQzUlZmaTdYckJ3Q3pfVTh3a1BjT3liQ1YtS2hUN3hwNlJ2RDBDTE05ODNNM1pvUXhNQTVVNXFwZVJ2cTMwSXRpRE9UZ3MybEswaHZKTkhTRndDdXhEa0VlYTBqOEtMSnIxV1N3LWh3dWNKWUpIOXI4Q3VhT3phd25Ec2VCanI4RTlYcVlXLUtJTmVVZmh1UjFBMVdQanc3S1pNM3dBSUw0aldBdTB4NDVOTVZfdFZac3d4UmdZVFdxdHZNMDhvSkg0UmE3NWtEWHJGWHh3X0tkNXZFUlc1R0hUNHc1b3h3ZXhmVkxqTjYzY2JMOHhHTHZfWFpjR2p3Y1ZNdnJQZyJ9
+https://leetcode.com/problems/validate-binary-search-tree/ | (7) Validate Binary Search Tree - LeetCode
+https://www.youtube.com/watch?v=UOCN2bCRWyk | How to Debug React app in VSCode React Project Debugging Visual Studio Code - YouTube
+https://www.tutorialspoint.com/csharp/index.htm | C# Tutorial - Tutorialspoint
+https://docs.microsoft.com/en-us/dotnet/csharp/how-to/concatenate-multiple-strings | How to concatenate multiple strings (C# Guide) | Microsoft Docs
+
+https://procodeguide.com/design/solid-principles-with-csharp-net-core/?utm_source=rss&utm_medium=rss&utm_campaign=solid-principles-with-csharp-net-core | Solid Principles with C# .NET Core – Easy to understand guide
+https://2ality.com/2021/06/typescript-esm-nodejs.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+2ality+%282ality+%E2%80%93+JavaScript+and+more%29 | TypeScript and native ESM on Node.js
+https://www.theurlist.com/aspnet-standup-2021-01-19 | The Urlist
+https://devblogs.microsoft.com/dotnet/net-5-new-networking-improvements/ | .NET 5 Networking Improvements | .NET Blog
+https://dotnet.microsoft.com/live | .NET Live TV | Live developer streams every day
+https://source.dot.net/ | Source Browser
+https://docs.microsoft.com/en-gb/ | Developer tools, technical documentation and coding examples | Microsoft Docs
+https://speakerdeck.com/davidfowl/asp-dot-net-core-architecture-overview?slide=8 | ASP.NET Core Architecture Overview - Speaker Deck
+https://github.com/dotnet-presentations/dotNETConf/tree/master/2020/MainEvent/Technical | dotNETConf/2020/MainEvent/Technical at master · dotnet-presentations/dotNETConf
+https://cloud.google.com/kubernetes-engine/kubernetes-comic | Deploy code faster: with CI/CD and Kubernetes
+http://blog.cwa.me.uk/ | The Morning Brew - Chris Alcock
+https://nextjs.org/docs/basic-features/pages | Basic Features: Pages | Next.js
+https://www.sanity.io/create | Get a Sanity powered site running in minutes | Sanity.io
+http://dontcodetired.com/blog/?tag=icymcs9series | Don't Code Tired | All posts tagged 'cymcs9series'
+https://2ality.com/2021/06/temporal-api.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+2ality+%282ality+%E2%80%93+JavaScript+and+more%29 | Temporal: getting started with JavaScript’s new date time API
+https://dev.to/azure/learn-react-with-this-free-github-book-i-wrote-792 | Learn React with this free GitHub book I wrote
+https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Async-Debugging-Part-3 | Async Debugging Part 3
+https://vscodethemes.com/dark | Dark themes
+https://wesbos.com/javascript | Beginner JavaScript Notes - Wes Bos
+https://jsonformatter.curiousconcept.com/# | JSON Formatter & Validator
+https://text-compare.com/ | Text Compare! - An online diff tool that can find the difference between two text files
+https://www.flaticon.com/ | Free Vector Icons and Stickers - PNG, SVG, EPS, PSD and CSS
+https://www.google.com/get/videoqualityreport/?v=rxKGgSLwOnU | Google Video Quality Report
+https://holidappy.com/quotes/20-Bible-Quotes-for-Your-Farewell-Card | 20 Bible Quotes for Your Farewell or Goodbye Card - Holidappy
+https://www.urlencoder.org/ | URL Encode and Decode - Online
+https://regex101.com/ | regex101: build, test, and debug regex
+https://github.com/microsoft/Web-Dev-For-Beginners | microsoft/Web-Dev-For-Beginners: 24 Lessons, 12 Weeks, Get Started as a Web Developer
+https://docs.microsoft.com/en-us/learn/paths/web-development-101/ | Web development for beginners - Learn | Microsoft Docs
+https://khalidabuhakmeh.com/csharp-pattern-matching-quick-guide-and-examples | C# Pattern Matching Quick Guide And Examples
+https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Async-Debugging-Part-2 | Async Debugging Part 2
+https://dzone.com/articles/using-pareto-principle-for-priority-management# | Edit Profile
+https://github.com/github/gitignore/blob/master/VisualStudio.gitignore | gitignore/VisualStudio.gitignore at master · github/gitignore
+https://code-maze.com/using-dapper-with-asp-net-core-web-api/ | Using Dapper with ASP.NET Core Web API
+https://techcommunity.microsoft.com/t5/educator-developer-blog/microsoft-engineers-scott-hanselman-and-cherita-ousley-learn-c/ba-p/2453971 | Microsoft Engineers Scott Hanselman and Cherita Ousley – Learn C# together!
+https://blog.jetbrains.com/dotnet/2021/06/16/oss-power-ups-specflow-webinar-recording/ | OSS Power-Ups: SpecFlow – Webinar Recording
+https://mdn.github.io/to-do-notifications/ | To do list with Notifications
+https://github.com/mdn/to-do-notifications/blob/gh-pages/scripts/todo.js | to-do-notifications/todo.js at gh-pages · mdn/to-do-notifications
+https://blogs.microsoft.com/ai-for-business/microsoft-research-tools-help-developers-write-bug-free-code-faster/?ocid=FY21_soc_omc_br_tw_No_more_bugs | New tools from Microsoft Research help developers write bug-free code, faster - AI for Business
+https://innovation.microsoft.com/en-us/tech-minutes-codebert | Microsoft Innovation - Start Exploring
+https://devblogs.microsoft.com/ | DevBlogs - Microsoft Developer Blogs
+https://www.catholic.org/bible/daily_reading/?select_date=2021-06-14 | Daily Reading for Monday, June 14th, 2021 - Bible - Catholic Online
+https://www.ssw.com.au/ssw/ | SSW Consulting - .NET, Web, Mobile, CRM, SharePoint, Azure, Power BI, Angular, React, Office 365 and Dynamics
+https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g | Microsoft Developer - YouTube
+https://www.youtube.com/watch?v=rEHV3fFMfn0 | Demo: Data types in JavaScript [16 of 51] | Beginner's Series to JavaScript - YouTube
+https://dev.azure.com/financeone/Collections/_git/Collections%20Backend/pullrequests?_a=mine | Pull requests - Repos
+https://github.com/Flash0ver/F0-Talks-NullVoid/tree/main/demo | F0-Talks-NullVoid/demo at main · Flash0ver/F0-Talks-NullVoid
+https://www.youtube.com/watch?v=h7uVMKPHGtM&list=PLQ176FUIyIUZLtQsoMfMfr_ZHCQGImMUp&index=15 | Null & Void – Everything About Nothing in .NET, by Stefan Pölz - YouTube
+https://www.stevejgordon.co.uk/talk-writing-high-performance-csharp-and-net-code | Talk: Turbocharged: Writing High-Performance C# and .NET Code - Steve Gordon - Code with Steve
+https://www.confectionerywarehouse.com.au/collections/all?page=8 | Products – Page 8 – Tom's Confectionery Warehouse
+https://www.youtube.com/playlist?list=PLQ176FUIyIUZLtQsoMfMfr_ZHCQGImMUp | JetBrains .NET Days Online 2021 - YouTube
+https://adamcogan.com/2021/05/18/8-important-changes-to-the-scrum-guide-for-2021/ | 8 Important Changes to The Scrum Guide for 2021 - Adam Cogan
+https://www.udemy.com/course/complete-guide-to-building-an-app-with-net-core-and-react/learn/lecture/24835884#overview | Complete guide to building an app with .Net Core and React | Udemy
+http://blog.cwa.me.uk/ | The Morning Brew - Chris Alcock
+https://medium.com/perry-street-software-engineering/clean-api-architecture-2b57074084d5 | Clean API Architecture 🔵 🟢 🔴 | by Eric Silverberg | Perry Street Software Engineering | Jun, 2021 | Medium
+https://thenounproject.com/search/?q=complexity+of+the+code&i=103959 | Cyclomatic Complexity Icons - Download Free Vector Icons | Noun Project Search
+https://www.dotnetconf.net/ | .NET Conf 2021
+https://mcusercontent.com/9bb15645129501e5249a9a8e1/files/aa8fb3f3-fd94-4641-8693-8a9980240001/ASPNET_Core_WEB_API_Best_Practices.03.pdf | ASP.NET Core Web API Best Practices
+https://code-maze.com/ | Code Maze - C#, .NET and Web Development Tutorials
+https://code-maze.us12.list-manage.com/subscribe/confirm?u=9bb15645129501e5249a9a8e1&id=8bfeb8ed56&e=1d7bc40217 | Code Maze
+file:///C:/Users/dsilva/Downloads/All%20Materials%20in%20.NET%205/All%20Materials%20in%20.NET%205/Ultimate%20ASP.NET%20Core%20Web%20API.pdf | Ultimate ASP.NET Core Web API.pdf
+https://finance1.sharepoint.com/:u:/s/TechnologyManagement/EdYn7HcoXmhJgdl56I5J5GEBMb3a_RG5iLiobGjwxjvWeA?email=dinesh.silva%40financeone.com.au&e=4%3Ag0dDVM&at=9&wdLOR=cFFE1E724-D695-4296-B478-48FB898219CD | Hardship Workflow.vsdx
+https://dzone.com/refcardz/design-patterns?chapter=1 | Design Patterns - DZone Refcardz
+https://www.infoq.com/news/2021/04/Net6-Linq/ | .NET 6 LINQ Improvements
+https://jsfiddle.net/ | JSFiddle - Code Playground
+https://www.youtube.com/watch?v=dP1Er2BfVmo&list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2&index=12 | Working with strings [11 of 51] | Beginner's Series to JavaScript - YouTube
+https://reactjs.org/docs/hooks-intro.html#motivation | Introducing Hooks – React
+https://kanbanflow.com/board/ReR8BXS | My Personal Board - KanbanFlow
+https://code-maze.com/asynchronous-programming-with-async-and-await-in-asp-net-core/ | Asynchronous Programming with Async and Await in ASP.NET Core
+https://github.com/CodeMazeBlog/async-await-aspnetcore/blob/main/end/CompanyEmployees/Repository/CompanyRepository.cs | async-await-aspnetcore/CompanyRepository.cs at main · CodeMazeBlog/async-await-aspnetcore
+https://github.com/CodeMazeBlog/async-await-aspnetcore | CodeMazeBlog/async-await-aspnetcore: This repo contains the source code for the "Asynchronous Programming with Async and Await in ASP.NET Core" article on Code Maze
+https://www.digitalocean.com/community/tutorials/how-to-manage-state-with-hooks-on-react-components | How To Manage State with Hooks on React Components | DigitalOcean
+https://www.meziantou.net/visual-studio-tips-and-tricks-multi-line-and-multi-cursor-editing.htm | Visual Studio Tips and tricks: Multi-line and multi-cursor editing - Meziantou's blog
+https://dotnetfiddle.net/ | | C# Online Compiler | .NET Fiddle
+https://github.com/wdsnetnz/MyTracker/blob/master/TimeTracker.Repository/Implementations/CustomerRepository.cs | MyTracker/CustomerRepository.cs at master · wdsnetnz/MyTracker
+https://channel9.msdn.com/Shows/Learn-Live/Learn-Git-Episode-4-Visual-Studio-Code-and-GitHub | Learn Git - Episode 4 - Visual Studio Code and GitHub | Learn Live | Channel 9
+https://redux.js.org/tutorials/essentials/part-1-overview-concepts | Redux Essentials, Part 1: Redux Overview and Concepts | Redux
+https://redux.js.org/tutorials/essentials/part-2-app-structure | Redux Essentials, Part 2: Redux App Structure | Redux
+https://www.youtube.com/playlist?list=PLQ176FUIyIUZLtQsoMfMfr_ZHCQGImMUp | JetBrains .NET Days Online 2021 - YouTube
+
+https://www.stevejgordon.co.uk/talk-writing-high-performance-csharp-and-net-code | Talk: Turbocharged: Writing High-Performance C# and .NET Code - Steve Gordon - Code with Steve
+https://dev.to/kevin_odongo35/object-oriented-programming-with-typescript-574o | Object Oriented Programming with TypeScript - DEV Community
+https://www.freecodecamp.org/news/learn-typescript-basics/ | Learn TypeScript Basics in this Beginner's Guide
+https://dailydotnettips.com/ | Home - Daily .NET Tips
+https://dzone.com/articles/9-best-practices-for-effective-code-review | 9 Best Practices for Effective Code Review - DZone Agile
+https://code-maze.com/#start-learning | Code Maze - C#, .NET and Web Development Tutorials
+https://code-maze.com/react-series/ | React Tutorial - Consuming .NET Core Web API - Code Maze
+https://code-maze.com/back-end-stack/ | Back End Stack - Code Maze
+https://code-maze.com/aspnetcore-webapi-best-practices/ | .NET Core Web API Best Practices - Code Maze Blog
+https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/#LineCommentAttacks | SQL Injection Cheat Sheet | Netsparker
+https://loremipsum.io/generator/?n=105&t=w | Lorem Ipsum Generator
+https://json2csharp.com/json-to-pojo | JSON to POJO Object Online Converter - Json2CSharp Toolkit
+https://www.typescriptlang.org/docs/handbook/2/functions.html | TypeScript: Documentation - More on Functions
+https://reactjs.org/docs/hooks-custom.html | Building Your Own Hooks – React
+https://reactjs.org/docs/hooks-reference.html#usestate | Hooks API Reference – React
+https://redux.js.org/tutorials/essentials/part-1-overview-concepts | Redux Essentials, Part 1: Redux Overview and Concepts | Redux
+https://github.com/ | GitHub
+https://blogs.microsoft.com/blog/2021/05/25/microsoft-loves-developers-welcome-to-build-2021/ | Microsoft ❤️ developers: Welcome to Build 2021 - The Official Microsoft Blog
+https://dusted.codes/dotnet-basics | .NET Basics - Dusted Codes
+https://marketplace.visualstudio.com/items?itemName=TechTalkSpecFlowTeam.SpecFlowForVisualStudio | SpecFlow for Visual Studio 2019 - Visual Studio Marketplace
+https://www.ssw.com.au/rules/rules-to-better-code | SSW.Rules | Rules to Better Code
+https://www.youtube.com/watch?v=enAskgcF0c0 | ASP.NET Community Standup - Minimal APIs - YouTube
+https://twitter.com/hashtag/JBDotNetDays | #JBDotNetDays - Twitter Search / Twitter
+https://benchmarkdotnet.org/articles/overview.html | Overview | BenchmarkDotNet
+https://www.tutorialspoint.com/typescript/typescript_types.htm | TypeScript - Types - Tutorialspoint
+https://www.moneyme.com.au/personal-loans | Personal Loans | MoneyMe
+https://www.youtube.com/watch?v=lAW1Jmmr9hc&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=3 | React Hooks Tutorial - 2 - useState Hook - YouTube
+https://mattferderer.com/entity-framework-no-type-was-specified-for-the-decimal-column | Fixing Entity Framework Validation 30000 No Type Specified for the Decimal Column | Matt Ferderer
+https://stackoverflow.com/questions/22680446/entity-framework-rollback-and-remove-bad-migration | c# - Entity Framework rollback and remove bad migration - Stack Overflow
+https://dev.azure.com/financeone/Collections/_git/Collections%20Backend?path=%2Fdocumentation%2FDatabase.md&_a=preview&version=GBmaster | Database.md - Repos
+https://mybuild.microsoft.com/sessions?t=%257B%2522from%2522%253A%25222021-05-26T00%253A00%253A00%252B10%253A00%2522%252C%2522to%2522%253A%25222021-05-28T23%253A59%253A00%252B10%253A00%2522%257D | MyBuild - Session catalog
+https://docs.microsoft.com/en-gb/learn/topics/build | Build on Microsoft Learn | Microsoft Docs
+https://visualstudio.microsoft.com/services/github-codespaces/ | GitHub Codespaces using Visual Studio or browser
+http://10.30.0.44:3000/workflows/hardship/8 | Collections Portal
+https://marketplace.visualstudio.com/items?itemName=DevExpress.rushsnippets | Rush Snippets - Visual Studio Marketplace
+
+https://dev.azure.com/financeone/Collections/_sprints/taskboard/Collections%20Team/Collections/Hardship%20Platform/Hardship%20Sprint%203 | Collections Team Hardship Sprint 3 Taskboard - Boards
+https://dev.azure.com/financeone/Collections/_git/Collections%20Backend/pullrequests?_a=mine | Pull requests - Repos
+https://dev.azure.com/financeone/Core%20Libraries/_wiki/wikis/Core%20Library%20Documentation/223/EnumStrings.GetEnumFromString-Method | EnumStrings.GetEnumFromString Method - Overview
+https://kanbanflow.com/board/ReR8BXS | My Personal Board - KanbanFlow
+https://dotnetfiddle.net/ | C# Online Compiler | .NET Fiddle
+https://github.com/wdsnetnz/MyTracker/blob/master/TimeTracker.Repository/Implementations/CustomerRepository.cs | MyTracker/CustomerRepository.cs at master · wdsnetnz/MyTracker
+https://github.com/wdsnetnz | wdsnetnz (Dinesh Silva)
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio | Tutorial: Create a web API with ASP.NET Core | Microsoft Docs
+http://10.30.0.44:16900/login?request=eyJpbmplY3Rpb25VcmwiOiJodHRwOi8vMTAuMzAuMC40NDozMDAwL2xvZ2luIiwicmVkaXJlY3Rpb25VcmwiOiIvd29ya2Zsb3dzL2hhcmRzaGlwLzgifQ==
+https://sharplab.io/#v2:EYLgtghglgdgNAExAagD4AEBMBGAsAKHQAYACdbAOgBlYBHAbgOLOwBZHCBmMzEgYRIBvAiVFlu6ViQCyACgCUQkWJWwALiQCmAG01hNMDQF4S2DitWGSAYwD2AVysnsRcxdHqA2gF0SEAE7+EACevCYwmgDuJF52jmrebu7KyfjuHoY+foEhJCYAojD2+kHAuhQASpoADpoQarI6egZqcDYOhvIUACq2AII5wQpJFuQAnLIAymr+sADmFABStrCyAERwG9lBwfLyIyopFkcqAGa2/iSy6jF5JK63ADzt8fQxyMiKwmnpKgE7nigvhMTX0hgOYgAviITmJxlMZvMlisYOtNm1/iFMHsIaJYaIBjsKAAxKDabSyTGhNqglr7GE/dzw6azGALZarDZbKnY+mM478s4XOrWAAWVxu1hiMG2WPk+KUgvS8IAJGt8rowRoAMSCOKGSEgIS0g1rPm/FT6tQfXEkaFK0SqtYAOWKwE0l1spy0mpaAGcjXqOmpIWbbQqbjKTK4FZFRWTNFcZc8AKzyh2Ki1w7ATGDmrMkGA2hX234KgBuARIpygwFdYHd/j9dwi0RofrUj3UAD4hPc2tgB21MG1OG0U20ABwD7iQ22S4P1xt3GMZ87+EXi65WE1qYkXaXV2tLj1+9O/b4FlgTNUa5pWXVWk/+Q3G32GfcvsMKy2Lt0e4sM1LZUc1kNVnxIL0fXvNQAyEJ9/y/PkjntSEgA== | SharpLab
+https://codepen.io/wdsilva/pen/XWMmNNr?editors=0010 | React Hooks
+https://coreui.libraries.finone.com.au/display/data-grid | Finance One - Core UI
+https://www.tutorialsteacher.com/typescript/type-inference | Type inference in TypeScript
+https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9 | What's new in C# 9.0 - C# Guide | Microsoft Docs
+https://www.meziantou.net/visual-studio-tips-and-tricks-multi-line-and-multi-cursor-editing.htm | Visual Studio Tips and tricks: Multi-line and multi-cursor editing - Meziantou's blog
+https://docs.microsoft.com/en-us/dotnet/api/system.decimal.tryparse?view=net-5.0 | Decimal.TryParse Method (System) | Microsoft Docs
+https://martinfowler.com/bliki/CQRS.html | CQRS
+https://github.com/jasontaylordev/CleanArchitecture | jasontaylordev/CleanArchitecture: Clean Architecture Solution Template for Angular 10 and .NET 5
+http://www.r-5.org/files/books/computers/overviews/patterns/V_Anton_Spraul-Think_Like_a_Programmer-EN.pdf | Think Like a Programmer
+file:///C:/Users/dsilva/Downloads/V_Anton_Spraul-Think_Like_a_Programmer-EN.pdf | V_Anton_Spraul-Think_Like_a_Programmer-EN.pdf
+https://www.youtube.com/watch?v=i3n1bkrkUww&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI&index=11 | React Context & Hooks Tutorial #10 - useState Hook - YouTube
+https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw | dotNET - YouTube
+https://docs.microsoft.com/en-gb/dotnet/csharp/fundamentals/exceptions/exception-handling?WT.mc_id=dotnet-00000-cephilli | Exception Handling - C# Programming Guide | Microsoft Docs
+https://marketplace.visualstudio.com/items?itemName=DevExpress.rushsnippets | Rush Snippets - Visual Studio Marketplace
+https://github.com/DevExpress/vscode-rushsnippets | DevExpress/vscode-rushsnippets: Templates for TypeScript, React and Redux projects that help you write your code faster
+
+https://pages.jetbrains.com/dotnet-days-2021/newsletter?mkt_tok=NDI2LVFWRC0xMTQAAAF8-fNhg5LL2bMrRFcNBF-vTXNuYvk1BnG3n4TRppWSscfzDki5RX8LyahOhC51N0drfB7F5xPYDpBuoKo6I3ke_97Myp23RB01cx1PwFyYxT0e08M | JetBrains .NET Days Online 2021
+https://www.youtube.com/watch?v=bBpFpr-Votk | .NET Days Online. Day 1 - YouTube
+https://www.youtube.com/watch?v=i9xwtGai9wk | .NET Days Online. Day 2 - YouTube
+https://dotnet.microsoft.com/apps/aspnet/apis | ASP.NET Web APIs | Rest API's with .NET and C#
+https://dusted.codes/dotnet-basics | .NET Basics
+https://ayende.com/blog/193826-A/webinar-recording-the-rewards-of-escaping-the-relational-mindset?Key=92bc4be0-fdb0-4209-aa2d-36d223b2de05 | Webinar Recording: The Rewards of Escaping the Relational Mindset - Ayende @ Rahien
+https://www.red-gate.com/simple-talk/development/dotnet-development/documenting-testing-apis-postman/ | Documenting and testing APIs with Postman - Simple Talk
+https://benchmarkdotnet.org/articles/guides/getting-started.html#step-4-analyze-results | Getting started | BenchmarkDotNet
+http://zippopotam.us/#who | Zippopotamus- Zip Code Galore
+https://glitchbone.github.io/vscode-base16-term/#/3024 | Base16 Terminal Colors for Visual Studio Code
+https://www.youtube.com/watch?v=uUOE21dOQdQ | Writing more expressive steps - YouTube
+https://specflow.org/ | BDD Framework for .NET - SpecFlow - Find Bugs before they happen
+https://www.youtube.com/watch?v=_n3u5SjC7t4&list=PLQ176FUIyIUb1jTTLCLXNrqneTQcCvXkl | Refactoring to Patterns with ReSharper by Zoran Horvat - YouTube
+https://www.youtube.com/watch?v=bBpFpr-Votk | .NET Days Online. Day 1 - YouTube
+https://www.theurlist.com/aspnet-standup-2021-05-04 | The Urlist
+https://www.youtube.com/watch?v=zW4INO353Xg | On .NET Live - Intro to Microservice Patterns for .NET Developers - YouTube
+https://speakerdeck.com/davidfowl/asp-dot-net-core-architecture-overview?slide=24 | ASP.NET Core Architecture Overview - Speaker Deck
+https://www.theurlist.com/aspnet-standup-2021-04-20 | The Urlist
+https://www.theurlist.com/efcore-standup-2021-05-05 | The Urlist
+https://www.youtube.com/playlist?list=PLdo4fOcmZ0oX0ObHwBrJ0vJpZ7PiYMqeA | Entity Framework Community Standup - YouTube
+https://dotnetcoretutorials.com/2019/08/03/dapper-in-net-core-part-1-the-what-why-who/ | Dapper In .NET Core - Part 1 - The What/Why/Who - .NET Core Tutorials
+https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw | dotNET - YouTube
+https://docs.automapper.org/en/stable/Getting-started.html | Getting Started Guide — AutoMapper documentation
+https://www.techiedelight.com/initialize-array-elements-with-specified-value-csharp/ | Initialize all elements of an array with a specified value in C# – Techie Delight
+https://www.udemy.com/course/complete-guide-to-building-an-app-with-net-core-and-react/learn/lecture/24835840#overview | Complete guide to building an app with .Net Core and React | Udemy
+https://www.youtube.com/watch?v=bBpFpr-Votk&list=PLQ176FUIyIUZLtQsoMfMfr_ZHCQGImMUp&index=1 | .NET Days Online. Day 1 - YouTube
+https://leetcode.com/problems/prison-cells-after-n-days/ | Prison Cells After N Days - LeetCode
+
+https://reactjs.org/tutorial/tutorial.html | Tutorial: Intro to React – React
+https://react.semantic-ui.com/usage/ | Get Started - Semantic UI React
+https://undraw.co/illustrations | Illustrations | unDraw
+
+https://docs.automapper.org/en/stable/Configuration-validation.html | Configuration Validation — AutoMapper documentation
+https://marketplace.visualstudio.com/items?itemName=MariusAlchimavicius.json-to-ts | JSON to TS - Visual Studio Marketplace
+https://reactjs.org/docs/hooks-overview.html | Hooks at a Glance – React
+http://json2ts.com/ | json2ts - generate TypeScript interfaces from json
+https://json2csharp.com/ | Convert JSON to C# Classes Online - Json2CSharp Toolkit
+
+https://finance1.sharepoint.com/sites/Technology | Information Technology - Home
+https://dev.azure.com/financeone/Collections/_git/Collections%20Frontend/branches | Branches - Repos
+https://dev.azure.com/financeone/Collections/_sprints/taskboard/Collections%20Team/Collections/Hardship%20Platform/Hardship%20Sprint%202 | Collections Team Hardship Sprint 2 Taskboard - Boards
+https://docs.microsoft.com/en-us/azure/devops/artifacts/npm/npmrc?view=azure-devops&tabs=windows | Set up your client's npmrc - Azure Artifacts | Microsoft Docs
+https://www.pluralsight.com/redeemlink/genericV4?redemptionId=4d3b4105-3a95-4748-8807-f7bf00fe5bbc&mac=e0ca15fcc3991ce3db6cccad1ce1fee98afc3686349acd7fe73a1706324b9547#/ | Pluralsight - Error
+https://reactjs.org/tutorial/tutorial.html#overview | Tutorial: Intro to React – React
+https://codepen.io/gaearon/pen/gWWZgR?editors=0010 | Tic Tac Toe
+https://binarysearch.com/problems/Longest-Alliteration | Longest Alliteration | binarysearch
+https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow | Git Feature Branch Workflow | Atlassian Git Tutorial
+
+https://kanbanflow.com/board/ReR8BXS | My Personal Board - KanbanFlow
+https://codepen.io/wdsilva/pen/dyNKezg?editors=0010 | Tic Tac Toe
+https://dev.azure.com/financeone/Collections/_sprints/taskboard/Collections%20Team/Collections/Hardship%20Platform/Hardship%20Sprint%202?workitem=1543 | Collections Team Hardship Sprint 2 Taskboard - Boards
+https://dev.azure.com/financeone/Collections/_git/Collections%20Backend?version=GBtopics%2Fhardship%2Fadd-workflow-conditions&path=%2Fcollections-backend.src%2FControllers%2FHardshipWorkflowsController.cs | HardshipWorkflowsController.cs - Repos
+https://dev.azure.com/financeone/Collections/_sprints/taskboard/Collections%20Team/Collections/Hardship%20Platform/Hardship%20Sprint%202?workitem=1543 | Collections Team Hardship Sprint 2 Taskboard - Boards
+https://coreui.libraries.finone.com.au/input/form-validation | Finance One - Core UI
+https://dev.azure.com/financeone/Core%20Libraries/_git/Core%20UI?path=%2Fdocs%2Fsrc%2Fviews%2Fform-validation%2Fsnip-form.tsx | snip-form.tsx - Repos
+https://jwt.io/ | JSON Web Tokens - jwt.io
+http://10.30.0.44:16900/ | Finance One Portal
+https://react-redux.js.org/introduction/getting-started | Getting Started | React Redux
+https://redux.js.org/tutorials/fundamentals/part-2-concepts-data-flow | Redux Fundamentals, Part 2: Concepts and Data Flow | Redux
+https://codesandbox.io/s/redux-fundamentals-core-example-lr7k1?from-embed=&file=/index.html | redux-fundamentals-core-example - CodeSandbox
+https://redux.js.org/tutorials/essentials/part-1-overview-concepts | Redux Essentials, Part 1: Redux Overview and Concepts | Redux
+https://www.udemy.com/course/complete-guide-to-building-an-app-with-net-core-and-react/learn/lecture/24835800#overview | Complete guide to building an app with .Net Core and React | Udemy
+https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow | Git Feature Branch Workflow | Atlassian Git Tutorial
+https://sharplab.io/#v2:EYLgtghglgdgNAExAagD4AEBMBGAsAKHQAYACdbAFgG4D0BmMzEgYRIG8CSuyH0KSAsgAoAlO07dJ5UgH0EsAKYBnABYkAvCQBE8mMpVaa+SZIkmSAGShKALgB5pAPhIyYEMMo0k9Ad0vX7J1F2bQARRVUtOG0AZQBjAHsbGy0AXyNzLjMTK1s7WBtnABsAr19/PILHYLYSTGi6aIB2EnTs02NMgDcIACdvAFcwYAVepTKFP1z7KtEMzJghkbGAOgBBBAQhTBF580Xh0aV1zaE6XfbuA+Xjja2AVgvO/aWjk62mp8yybABOIS0FgAkjEACokbAgbQkZCDQ6rZgJAYwGxfTKXLLPVoEVJAA== | SharpLab
